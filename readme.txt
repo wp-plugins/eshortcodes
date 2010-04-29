@@ -1,10 +1,10 @@
 === eShortcodes ===
 Contributors: Rich Pedley
 Donate link: http://quirm.net/download/
-Tags: short, code, shortcode, gallery, caption,eshortcode
+Tags: short, code, shortcode, gallery, caption, eshortcode
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.0
+Stable tag: 1.1
 
 A framework to ease the end users experience with shortcodes. 2 are included by default - gallery and caption.
 
