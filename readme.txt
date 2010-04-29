@@ -11,7 +11,7 @@ A framework to ease the end users experience with shortcodes. 2 are included by 
 == Description ==
 
 eShortcodes is a framework to ease the end users experience with shortcodes. 
-An extra neta box is added to the post/page edit screens with available shortcodes, and a form with the possible attributes.
+An extra meta box is added to the post/page edit screens with available shortcodes, and a form with the possible attributes.
 Hooks have been added for plugin developers to use. 
 2 examples have been included, gallery and content.
 
@@ -21,7 +21,7 @@ Not currently available.
 
 == Changelog == 
 
-=Version 1.0=
+= Version 1.0 =
 
 Initial Release
 
