@@ -1,7 +1,7 @@
-=== eShop ===
+=== eShortcodes ===
 Contributors: Rich Pedley
 Donate link: http://quirm.net/download/
-Tags: short, code, shortcode, gallery, caption
+Tags: short, code, shortcode, gallery, caption,eshortcode
 Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: 1.0
