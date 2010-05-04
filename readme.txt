@@ -4,7 +4,7 @@ Donate link: http://quirm.net/download/
 Tags: short, code, shortcode, gallery, caption, eshortcode
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.1
+Stable tag: 1.2
 
 A framework to ease the end users experience with shortcodes. 2 are included by default - gallery and caption.
 
@@ -21,6 +21,10 @@ Not currently available.
 
 == Changelog == 
 
+= Version 1.2 =
+
+Added a list of Compatible plugins, and minor tweak to source
+
 = Version 1.0 =
 
 Initial Release
@@ -34,6 +38,14 @@ Download the plugin, upload to your Wordpress plugins directory and activate. An
 = Translatable? =
 
 Yes the po file is included.
+
+= Compatible plugins =
+
+ eShop
+
+= Pre WP 3.0 =
+
+Sadly this plugin was written for WP3, and may not work for previous version of WP
 
 = Support =
 
