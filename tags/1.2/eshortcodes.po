@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eShortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-29 19:56-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rich Pedley <rich@quirm.net>\n"
+"Language-Team: Rich Pedley <admin@quirm.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: C:\\Documents and Settings\\Richard\\My Documents\\Subversion\\eshortcodes\\\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: trunk\n"
+
+#: trunk/eshortcode.php:57
+msgid "Shortcode:"
+msgstr ""
+
+#: trunk/eshortcode.php:67
+msgid "Send Shortcode to Editor &raquo;"
+msgstr ""
+
+#: trunk/eshortcode.php:95
+msgid "Gallery"
+msgstr ""
+
+#: trunk/eshortcode.php:96
+msgid "Caption"
+msgstr ""
+
+#: trunk/eshortcode.php:111
+#: trunk/eshortcode.php:212
+msgid "Content:"
+msgstr ""
+
+#: trunk/eshortcode.php:117
+msgid "Columns:"
+msgstr ""
+
+#: trunk/eshortcode.php:120
+#: trunk/eshortcode.php:140
+#: trunk/eshortcode.php:151
+#: trunk/eshortcode.php:179
+msgid "Default or choose"
+msgstr ""
+
+#: trunk/eshortcode.php:132
+msgid "Page/Post ID:"
+msgstr ""
+
+#: trunk/eshortcode.php:138
+msgid "Image Size:"
+msgstr ""
+
+#: trunk/eshortcode.php:141
+msgid "Thumbnail"
+msgstr ""
+
+#: trunk/eshortcode.php:142
+msgid "Medium"
+msgstr ""
+
+#: trunk/eshortcode.php:143
+msgid "Large"
+msgstr ""
+
+#: trunk/eshortcode.php:144
+msgid "Full"
+msgstr ""
+
+#: trunk/eshortcode.php:149
+msgid "Order By:"
+msgstr ""
+
+#: trunk/eshortcode.php:152
+msgid "Menu Order"
+msgstr ""
+
+#: trunk/eshortcode.php:153
+msgid "ID"
+msgstr ""
+
+#: trunk/eshortcode.php:154
+msgid "Random"
+msgstr ""
+
+#: trunk/eshortcode.php:159
+msgid "Itemtag:"
+msgstr ""
+
+#: trunk/eshortcode.php:165
+msgid "Icontag:"
+msgstr ""
+
+#: trunk/eshortcode.php:171
+msgid "Captiontag:"
+msgstr ""
+
+#: trunk/eshortcode.php:177
+msgid "Link to:"
+msgstr ""
+
+#: trunk/eshortcode.php:180
+msgid "File"
+msgstr ""
+
+#: trunk/eshortcode.php:185
+msgid "Include:"
+msgstr ""
+
+#: trunk/eshortcode.php:191
+msgid "Exclude:"
+msgstr ""
+
+#: trunk/eshortcode.php:218
+msgid "Id:"
+msgstr ""
+
+#: trunk/eshortcode.php:224
+msgid "Align:"
+msgstr ""
+
+#: trunk/eshortcode.php:230
+msgid "Width:"
+msgstr ""
+
+#: trunk/eshortcode.php:236
+msgid "Caption:"
+msgstr ""
+
