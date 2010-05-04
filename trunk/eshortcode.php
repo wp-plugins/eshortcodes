@@ -3,7 +3,7 @@
 Plugin Name: eShortcode
 Plugin URI: http://quirm.net/
 Description: Adds a form to the page/post edit screen for adding an exisiting shortcode to the editor. Contains gallery and caption by default. Designed to be extended by plugin authors. Based on original work by Aaron D. Campbell http://xavisys.com/wordpress-25-shortcodes/
-Version: 1.1
+Version: 1.2
 Author: Rich Pedley 
 Author URI: http://quirm.net/
 
@@ -41,7 +41,9 @@ all form name need to be of the format : yourType[shortcodeattribute]
 
 see example function eshortGalleryForm
 
-
+_important_ - if you don't use content you must add a line siliar to this:
+<input type="hidden" name="gallery[content]" id="gallery_content" />
+content is inserted like this [gallery]content[/gallery]
 */
 load_plugin_textdomain( 'eShortcodes', false, dirname( plugin_basename( __FILE__ ) ) ); 
 function handleAdminMenu() {
