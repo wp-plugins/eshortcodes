@@ -3,7 +3,7 @@
 Plugin Name: eShortcodes
 Plugin URI: http://quirm.net/
 Description: Adds a form to the page/post edit screen for adding an exisiting shortcode to the editor. Contains gallery and caption by default. Designed to be extended by plugin authors. Based on original work by Aaron D. Campbell http://xavisys.com/wordpress-25-shortcodes/
-Version: 1.2
+Version: 1.3
 Author: Rich Pedley 
 Author URI: http://quirm.net/
 
