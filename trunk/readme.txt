@@ -4,7 +4,7 @@ Donate link: http://quirm.net/download/
 Tags: short, code, shortcode, gallery, caption, eshortcode
 Requires at least: 2.9
 Tested up to: 3.0
-Stable tag: 1.2
+Stable tag: 1.3
 
 A framework to ease the end users experience with shortcodes. 2 are included by default - gallery and caption.
 
@@ -20,7 +20,7 @@ Hooks have been added for plugin developers to use.
 Not currently available.
 
 == Changelog == 
-= Version 1.2 =
+= Version 1.3 =
 
 *fixed* should now work !
 
