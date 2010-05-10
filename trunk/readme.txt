@@ -2,7 +2,7 @@
 Contributors: Rich Pedley
 Donate link: http://quirm.net/download/
 Tags: short, code, shortcode, gallery, caption, eshortcode
-Requires at least: 3.0
+Requires at least: 2.9
 Tested up to: 3.0
 Stable tag: 1.2
 
@@ -20,10 +20,9 @@ Hooks have been added for plugin developers to use.
 Not currently available.
 
 == Changelog == 
-
 = Version 1.2 =
 
-Added a list of Compatible plugins, and minor tweak to source
+*fixed* should now work !
 
 = Version 1.0 =
 
@@ -38,14 +37,6 @@ Download the plugin, upload to your Wordpress plugins directory and activate. An
 = Translatable? =
 
 Yes the po file is included.
-
-= Compatible plugins =
-
- eShop
-
-= Pre WP 3.0 =
-
-Sadly this plugin was written for WP3, and may not work for previous version of WP
 
 = Support =
 

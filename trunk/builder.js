@@ -4,7 +4,7 @@
  * Deps: jquery
  * Enqueue: true
  */
-
+jQuery.noConflict();
 var wpeShortcodesAdmin = function () {}
 
 wpeShortcodesAdmin.prototype = {
@@ -50,14 +50,14 @@ wpeShortcodesAdmin.prototype = {
 var wpeShortcodesAdmin = new wpeShortcodesAdmin();
 
 //hide where necessary
-jQuery(document).ready(function(){
-	jQuery("#wpeShortcodes_shortcode option").each(function(){
+jQuery(document).ready(function($){
+	$("#wpeShortcodes_shortcode option").each(function(){
 		//gets select values to hide where necessary
-		var mehide = jQuery(this).val();
-		jQuery('#' + mehide).hide();
+		var mehide = $(this).val();
+		$('#' + mehide).hide();
 	});
-	jQuery("#wpeShortcodes_shortcode").change(function(){
-		jQuery("#" + this.value).show().siblings().hide();
+	$("#wpeShortcodes_shortcode").change(function(){
+		$("#" + this.value).show().siblings().hide();
 	});
-	jQuery("#wpeShortcodes_shortcode").change();
+	$("#wpeShortcodes_shortcode").change();
 });
