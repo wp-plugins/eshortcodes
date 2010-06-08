@@ -20,6 +20,7 @@ Hooks have been added for plugin developers to use.
 Not currently available.
 
 == Changelog == 
+
 = Version 1.3 =
 
 *fixed* should now work !
